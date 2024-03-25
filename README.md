@@ -5,7 +5,7 @@
 A simple web application for managing student grades.
 
 ## Technologies
-**Library:** React.js
+**Library:** React.js  
 **Languages:** Javascript, HTML, CSS  
 **IDE:** VSCode  
 
