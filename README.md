@@ -14,11 +14,11 @@ User can input student data which gets rendered in a table. User can then calcul
 
 ## Installation
 
-1. Clone repository ""
+1. Clone repository "git clone https://github.com/kevinngonzales/classroom-average-react-refactor.git"
 
 2. Open with VS Code
 
-3. Navigate to root folder of project in terminal ""
+3. Navigate to root folder of project in terminal "cd .\classroom-average-react-refactor"
 
 4. In terminal run "npm install" to install dependencies
 
